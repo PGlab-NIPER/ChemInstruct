@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 NERLLaMA uses the Hugging Face Transformers library to work with LLMs. You will need to have an account on the Hugging Face website to use the tool. You can sign up for an account [here](https://huggingface.co/join).
-We have fine-tuned and evaluated the pre=trained models over GPU. Hence the project requires CUDA and [cuDNN](https://developer.nvidia.com/rdp/cudnn-download) to be installed on your system.
+We have fine-tuned and evaluated the pre=trained models over GPU. Hence the project requires [CUDA](https://developer.nvidia.com/cuda-downloads) and [cuDNN](https://developer.nvidia.com/rdp/cudnn-download) to be installed on your system.
 
 LLaMA models can be accessed only after getting access to the models from Meta AI portal and Hugging Face.
 The same can be requested from the [LLaMA HuggingFace](https://huggingface.co/meta-llama/Llama-2-7b).
@@ -39,7 +39,7 @@ pipelines:
 If you would like to contribute to NERLLaMA, please open an issue or submit a pull request. We welcome contributions from the community.
 
 # License
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Acknowledgements
 We would like to thank the Hugging Face team for providing the infrastructure and tools that made this project possible. We would also like to thank the community for their support and contributions.
