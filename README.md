@@ -1,4 +1,3 @@
-Create a readme file for your project. This file should contain a brief description of your project, the name of the author, and the date of creation. You can also include a table of contents, installation instructions, usage instructions, and a license. 
 
 # Introduction
 This project ChemInstruct has two main components:
