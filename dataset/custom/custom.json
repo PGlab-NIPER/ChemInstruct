@@ -1,0 +1,232 @@
+[
+    {
+        "id": "0ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: Selective P450BM3 Hydroxylation of Cyclobutylamine and Bicyclo[1.1.1]pentylamine Derivatives: Underpinning Synthetic Chemistry for Drug Discovery"
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "P450BM3", "Cyclobutylamine", "Bicyclo[1.1.1]pentylamine"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: Achieving single-step syntheses of a set of related compounds divergently and selectively from a common starting material affords substantial efficiency gains when compared with preparing those same compounds by multiple individual syntheses. In order for this approach to be realized, complementary reagent systems must be available; here, a panel of engineered P450BM3 enzymes is shown to fulfill this remit in the selective CñH hydroxylation of cyclobutylamine derivatives at chemically unactivated sites. The oxidations can proceed with high regioselectivity and stereoselectivity, producing valuable bifunctional intermediates for synthesis and applications in fragment-based drug discovery. The process also applies to bicyclo[1.1.1]pentyl (BCP) amine derivatives to achieve the first direct enantioselective functionalization of the bridging methylenes and open a short and efficient route to chiral BCP bioisosteres for medicinal chemistry. The combination of substrate, enzyme, and reaction engineering provides a powerful general platform for small-molecule elaboration and diversification."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "P450BM3", "Cyclobutylamine", "Bicyclo[1.1.1]pentylamine (BCP) amine"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: Cyclobutyl amino alcohols are versatile synthetic intermediates whose derivatives feature in medicinal chemistry as key components in pharmaceutical candidates, (1) as motifs for exploring QSAR models and in lead/fragment-based drug discovery, (2) and as sp3-rich bioisosteric replacements for their aryl counterparts. (3) Despite this, there are few general methods for producing such compounds, particularly in an enantiomerically enriched form. Usually, each ring size and regio- or stereoisomer requires its own bespoke synthetic route. Representative multistep sequences leading to cis-3-hydroxy-cyclobutylamine (CBA) derivatives 2 and the enantiomers of both cis- 4 and trans-2-hydroxy-CBA 6 are summarized in Figure 1A"
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "Cyclobutyl amino alcohols", "cis-3-hydroxy-cyclobutylamine (CBA)", "cis-4-hydroxy-CBA", "trans-2-hydroxy-CBA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: Bicyclo[1.1.1]pent-1-ylamine (BCPA), a more globular CBA rigidified by virtue of an additional 1,3-methano bridge, presents defined potential exit vectors extending three-dimensionally. (8) BCPA itself is incorporated into pharmaceutical candidates as an aniline bioisostere, and the readily accessible 3-substituted BCPAs act as bioisosteric replacements for para-substituted aniline linkages (e.g., 7, Figure 1B). (9) Chiral 3-substituted BCPAs have been prepared in enantioenriched form, but in these the BCP core is stereochemically inert, offering little beyond conformational rigidity and functional group separation. (10) The 2-disubstituted BCPAs are far more compelling since they are inherently chiral and, as potential bioisosteres for ortho- and meta-substituted anilines, are desirable targets; however, their synthesis is challenging, particularly in enantioenriched form. (11) This challenge has been met in part by the groups of Ma (12) and Baran (13) building on strain-release amination concepts (8 ? 9, Figure 1C). (14) The approach reported by Qinís group, comprising the cyclization of sulfonyl hydrazones, (15) the multistep route from Mykhailiukís group, (16) and the elaboration of 2-bromo-BCP-1-carboxylic acid derivatives from MacMillanís group (17) all have potential in this context. While impressive, these high-profile recent advances in CBA and BCPA chemistry have not yet led to a unified synthetic strategy that delivers access to all positions around these cores. Such a strategy would be extremely valuable to both academia and industry, and this report describes developments toward a solution based on selective P450BM3-biocatalytic hydroxylation of CBA and BCPA cores (Figure 1D). The approach achieves structural and functional small-molecule diversification via unique oxidized metabolites which connect with the vast chemistry of the hydroxyl and carbonyl groups, circumventing the requirement for tailored syntheses of specific target compounds."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "Bicyclo[1.1.1]pent-1-ylamine (BCPA)", "CBA", "3-substituted BCPAs", "2-disubstituted BCPAs", "2-bromo-BCP-1-carboxylic acid", "P450BM3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: Herein, we highlight the capacity of a P450BM3 library to catalyze selective hydroxylation of CBA and BCPA cores via a progressive screening approach, without the need for multiple rounds of mutagenesis and rescreening, testing the extent to which, collectively, these enzymes may be considered off-the-shelf reagents for selective CñH oxidation. The enzyme library evolved from four parent mutants of the P450BM3 wild-type, through studies on the oxidation of a variety of substrate classes as described in earlier publications. (18) Substrates were screened against the same 48-member subset of the wider library (with minor variations, see Supporting Information section S2), selected on the basis of reactivity profiles established in previous work with substrates of similar molecular weights and structural motifs, including anilides, cyclic amines, and cycloalkanes. (19) In selected cases, focused second-generation panels were constructed from existing variants within the full library based on the metabolite profiles of the initial 48-variant library, and these were subsequently screened against substrates to explore further improvements in selectivity."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "P450BM3", "CBA", "BCPA", "anilides", "cyclic amines", "cycloalkanes"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: Initial analytical screens were conducted for substrate conversion and product selectivity, as judged by gas chromatographic (GC) analysis of the crude organic extract from reactions in 24-well plates. Promising reactions were scaled up sufficiently for NMR characterization of the metabolites and for analytical assays to be established. Free amines are not well tolerated in P450BM3 reactions; therefore, the tert-butyloxycarbonyl (Boc) derivative 12a of cyclobutylamine (Figure 1D) was chosen for initial screening. The Boc group imparts a steric and electronic basis for achieving orientation and binding within the active site and is easy to remove when it is no longer required. The main focus of the study remained with Boc-CBA but further N-substituted analogues were screened for comparison."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "P450BM3", "tert-butyloxycarbonyl (Boc)", "cyclobutylamine", "Boc-CBA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: The wild-type (WT) P450BM3 showed no conversion in the initial screen, but 36 of the variants converted at least 30% of substrate 12a to products within 24 h. All four 2- and 3-monohydroxylated metabolites were observed (Figure 2), of which the trans-2- and trans-3-hydroxylated products 14 and 15, respectively, dominated in most cases. The cis-1,2 isomer 16 was the major product for just one of the significantly converting enzymes (RK/AL) although this metabolite was produced more efficiently with KU3/AP/SW despite isomer 14 being the major product with this variant. The cis-1,3 isomer 17 was not found as the major product during the screen; the most favorable outcome was with GQ/IG/AL which achieved 33% 17 and 49% 15 at 91% conversion. Minor unidentified metabolites comprised no more than ?15% of the product mixtures for the high-converting (?70%) variants. Any ?-oxidation product is expected to degrade to cyclobutanone by eliminating tert-butyl carbamate and was not observed. The screening program revealed that, collectively, the 48-enzyme subset exhibited a roughly 7:1 preference for hydroxylation trans to the NHBoc substituent, with a slight preference for 2- over 3-hydroxylation."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "P450BM3", "cyclobutanone", "tert-butyl carbamate"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: With access to the less-favored cis-hydroxylated metabolites in mind, and as a simple alternative to conducting rounds of mutagenesis, the N-substituent was varied in a substrate engineering approach. (20) The p-toluenesulfonyl (Ts) analogue 12b was also well tolerated by the screening panel, with 31 variants achieving at least 30% conversion of the substrate. Only trans-1,3 18 and cis-1,2 21 cyclobutane hydroxylation products were identified, although p-toluenesulfonamide was observed in the GC traces, comprising up to almost 30% of the metabolite integration, consistent with production of the unstable 1-hydroxylation product 20. 3-Hydroxylation dominated, with 2-hydroxylation occurring to a comparable extent in just two cases. The methyl substituent in the Ts group was susceptible toward hydroxylation, and the derived benzyl alcohol 19 was observed in many screening reactions, accounting for up to 68% of the metabolite mixture and being the second most abundant metabolite overall."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "p-toluenesulfonyl", "trans-1,3 cyclobutane", "cis-1,2 cyclobutane", "p-toluenesulfonamide", "benzyl alcohol"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: The isopropanesulfonyl (Ips) derivative 12c showed limited reactivity toward the screening panel with only three variants converting at least 30% of the substrate. Variant KU3/AP/SW gave 91% conversion to all four monohydroxylated products, with the cis-1,2 isomer 22 being the major product; notably, this enzyme had also been the most productive for cis-1,2 metabolites 16 and 21 from substrates 12a and 12b, respectively. From this initial screening round, changes in the N-substituent were sufficient to favor different major hydroxylated CBA isomers: trans-1,2 from 12a, trans-1,3 from 12b, and cis-1,2 from 12c. The most productive and selective combinations of N-substituent and enzyme variant for each isomer are summarized in Table 1."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "Isopropanesulfonyl (Ips)", "cis-1,2 isomer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ner_0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text: The chiral trans-1,2 metabolite 14 was chosen as an exemplar for optimization, aiming to maximize the enantioselectivity on a synthetically meaningful scale. To begin, variant RP/HL/IG was selected from the highest-converting enzymes in the initial screen because it was the most selective for 14, it gave the product in 98% ee, and there was an existing panel available of 41 further enzyme variants derived from this starting point. From these second-generation variants, the L437 insertion mutants were found to be the most effective in terms of conversion and selectivity for the production of metabolite 14. Of these, the RG/LLV variant was more readily expressed in E. coli and showed excellent scaleability, with the TTN exceeding 5000 at a substrate/enzyme ratio of 20?000:1 (substrate concentration = 10 mM/1.7 g Lñ1). For preparative scale reactions, a higher substrate concentration achieved a more manageable reaction volume but at the expense of conversion; however, oxygenation of the reaction mixture restored much of the original reactivity. Thus, when either air or oxygen were bubbled through reaction mixtures containing 1.0 mmol of substrate 12a, conversion progressed approximately four times (air) to six times (oxygen) further during the first six hours of reaction; after this time, the conversions began to plateau, leading to a roughly 2.5-fold (air) and 3.5-fold (oxygen) relative progression at 12 h [see section S5.3.1]."
+            },
+            {
+                "from": "gpt",
+                "value": "I've read this text."
+            },
+            {
+                "from": "human",
+                "value": "What describes chemical entities in the text?"
+            },
+            {
+                "from": "gpt",
+                "value": [
+                    "oxygen"
+                ]
+            }
+        ]
+    }
+]
